@@ -1,3 +1,5 @@
 /venv/
 /migrations/
 db.sqlite3
+/django_website/core/migrations/
+.DS_Store
