@@ -4,7 +4,7 @@
 <img  src="docs/Diagram.png" width="600" alt="Diagram">
 </p>
 
-- [Used Datasets](docs%2FHomeA-weather.tar.gz) [(HomeA Weather, UMass Smart* Dataset - 2017 release)](https://traces.cs.umass.edu/index.php/Smart/Smart)
+[Used Datasets](docs%2FHomeA-weather.tar.gz) [(HomeA Weather, UMass Smart* Dataset - 2017 release)](https://traces.cs.umass.edu/index.php/Smart/Smart)
 
 ## Prerequisites
 
